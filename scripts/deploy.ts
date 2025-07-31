@@ -11,7 +11,7 @@ import { APP_NAME, APP_BUTTON_TEXT } from '../src/lib/constants.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const projectRoot = path.join(__dirname, '..');
-
+// hello
 // Load environment variables in specific order
 dotenv.config({ path: '.env' });
 
